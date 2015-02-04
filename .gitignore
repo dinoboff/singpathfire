@@ -1,0 +1,11 @@
+build-debug/**
+build-dev/**
+build-e2e/**
+build/**
+coverage/**
+dist/**
+node_modules/**
+npm-debug.log
+phantomjsdriver.log
+bin/*.log
+bin/*.pid
